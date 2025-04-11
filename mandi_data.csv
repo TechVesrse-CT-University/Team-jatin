@@ -1,0 +1,6 @@
+state,market,crop,modal_price,min_price,max_price,unit,date
+Punjab,Ludhiana,Tomato,2321,1921,2312,Rs/Quintal,2025-04-11
+Punjab,Ludhiana,Wheat,2036,1836,2330,Rs/Quintal,2025-04-11
+Punjab,Ludhiana,Onion,2209,1809,2476,Rs/Quintal,2025-04-11
+Punjab,Ludhiana,Potato,2013,1813,2407,Rs/Quintal,2025-04-11
+Punjab,Ludhiana,Rice,2132,1932,2355,Rs/Quintal,2025-04-11
